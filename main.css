@@ -31,15 +31,15 @@ body {
 }
 
 .input button.rock {
-  background-image: url('../images/rock.png')
+  background-image: url('images/rock.png')
 }
 
 .input button.scissors {
-  background-image: url('../images/scissors.png')
+  background-image: url('images/scissors.png')
 }
 
 .input button.paper {
-  background-image: url('../images/paper.png')
+  background-image: url('images/paper.png')
 }
 
 .output {
